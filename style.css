@@ -154,8 +154,12 @@ footer p {
     flex-direction: column;
   }
 
-  .item p {
-    align-content: center;
+  #about .group div p {
+    margin-top: 50px;
+  }
+
+  #host h2 {
+    margin-top: 100px;
   }
 
   form {
