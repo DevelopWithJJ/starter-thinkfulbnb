@@ -154,6 +154,10 @@ footer p {
     flex-direction: column;
   }
 
+  .item p {
+    align-content: center;
+  }
+
   form {
     flex-direction: row;
   }
